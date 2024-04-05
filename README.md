@@ -1,13 +1,11 @@
 
-# Fetch Data Analytics Coding Excercise
+# Brand Sales Dataset Analytics Coding
 Rithvik Mandumula
-
-#### Excercise Status: [Completed]
 
 ## Requirements and Purpose
 1. Create a new structured relational data model diagram 
-2. Write SQL querys against my new structured relational data model that answers questions from a business stakeholder.
-3. Share an noteworthy/interesting observation with a non-technical stakeholder
+2. Write SQL queries against my new structured relational data model that answers questions from a business stakeholder.
+3. Share a noteworthy/interesting observation with a non-technical stakeholder
 
 ### Technologies
 * Python
